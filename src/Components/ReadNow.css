@@ -1,0 +1,12 @@
+.newscard{
+    margin-left: 300px;
+    margin-top: 10rem;
+    height:277px;
+    align-items:center;
+   
+}
+.main-img{
+   
+    object-fit: cover;
+    height: 17rem;
+}

@@ -1,0 +1,34 @@
+.rightContainer img{
+width: 152px;
+display: table-column-group;
+margin-left: 30px;
+/* height: 32rem; */
+
+
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    
+} 
+.rightContainer h1{
+    margin-left: 80px;
+    color: blue;
+
+}.rightContainer p{
+    margin-left: 90px;
+    color: solid black;
+}
+.image1{
+    margin-top: 63px;
+    width: 21rem;
+    height: 33rem;
+}
+.image2{
+    display: flex;
+    justify-content:left;
+    width: 99%;
+    margin: auto;   
+    margin-left: 60px; 
+}
